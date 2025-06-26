@@ -1,5 +1,5 @@
 TERMS OF SERVICE
-Last updated November 29, 2023
+Last updated June 26th, 2025
 
 AGREEMENT TO OUR LEGAL TERMS
 We are Vert Ventures LLC ("Company," "we," "us," "our"), a company registered in Wyoming, United States
@@ -43,7 +43,8 @@ TABLE OF CONTENTS
 24. MISCELLANEOUS
 25. DISCLAIMER OF LIABILITY
 26. CONVERSATION DATA COLLECTION AND USAGE
-27. CONTACT US
+27. SOULMATE SKETCH
+28. CONTACT US
 
 1. OUR SERVICES
 The information provided when using the Services is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Services from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
@@ -232,7 +233,14 @@ All apps produced by Vert Ventures are provided strictly for entertainment purpo
 26. CONVERSATION DATA COLLECTION AND USAGE
 In our ongoing efforts to improve Astra and provide a superior user experience, we may collect and analyze data from conversations conducted within the app. The collected conversation data will be used exclusively for the purposes of improving app functionalities, such as enhancing user interaction, refining our AI algorithms, and developing new features that benefit our users. We ensure that the use of conversation data is conducted with the utmost respect for user privacy and confidentiality. Measures are in place to ensure that data analysis respects the privacy and integrity of our users' conversations.
 
-27. CONTACT US
+27. SOULMATE SKETCH
+While we use astrological information to generate your Soulmate Sketch, please understand that this service is for entertainment purposes only. The sketch you receive is a creative and artistic interpretation, not a scientifically verifiable prediction or a factual representation of any real individual.
+
+We explicitly state that the Soulmate Sketch is not based on scientific principles, objective reality, or any form of factual prediction. It is a product of imagination and artistic rendering. We make no claims, promises, or guarantees regarding the accuracy, reliability, or completeness of the Soulmate Sketch, its ability to predict or influence your relationships, or its correlation to any real person.
+
+By using this service, you acknowledge and agree that the Soulmate Sketch is provided "as is" and "as available," without any warranties of any kind, either express or implied. You further acknowledge and agree that we are not responsible for any actions or decisions you make based on the Soulmate Sketch, nor for any perceived dissatisfaction if the sketch does not align with your expectations or if you believe it to be untrue or unrealistic. We disclaim all liability for any direct, indirect, incidental, consequential, or special damages arising out of or in any way connected with your use of the Soulmate Sketch service
+
+28. CONTACT US
 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
 
 Vert Ventures LLC
